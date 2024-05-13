@@ -1,0 +1,16 @@
+.audi_text{
+    text-align: center;
+}
+
+.audi_box{
+    margin-top: 100px;
+    margin: auto;
+    width: 700px;
+    height: 500px;
+    margin-bottom: 100px;
+}
+
+.audi_img{
+    width: 100%;
+    height: 100%;
+}

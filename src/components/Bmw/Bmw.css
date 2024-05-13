@@ -1,0 +1,16 @@
+.bmw_text{
+    text-align: center;
+}
+
+.bmw_box{
+    margin-top: 100px;
+    margin: auto;
+    width: 800px;
+    height: 500px;
+    margin-bottom: 100px;
+}
+
+.bmw_img{
+    width: 100%;
+    height: 100%;
+}

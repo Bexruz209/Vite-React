@@ -1,0 +1,21 @@
+.list{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    cursor: pointer;
+    list-style: none;
+}
+
+.list_item{
+    font-size: 20px;
+    color: black;
+}
+
+.list_text{
+    text-align: center;
+    margin-top: 300px;
+}
+
+.list_h2{
+    color: red;
+}
