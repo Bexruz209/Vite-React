@@ -7,7 +7,7 @@ export default function PageFound() {
             <Container>
                 <Row>
                     <Col lg="13">
-                        <img src={PageFound_img} alt="" />
+                        <img src={PageFound_img} />
                     </Col>
                 </Row>
             </Container>
