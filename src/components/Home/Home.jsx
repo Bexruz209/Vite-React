@@ -7,7 +7,7 @@ export default function Home() {
             <Container>
                 <Row>
                     <Col lg="13">
-                        <h1 className="text">Bizni moshina tarihimizga <h1 className="text_smoll">hush kelipsiz</h1></h1>
+                        <h1 className="text">Bizni moshina kampaniyamizga<h1 className="text_smoll">hush kelipsiz</h1></h1>
                     </Col>
                 </Row>
             </Container>
