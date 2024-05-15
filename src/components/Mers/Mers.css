@@ -1,6 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 .mers_text{
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .box{
@@ -13,4 +19,11 @@
 .img{
     width: 100%;
     height: 100%;
+}
+
+.mers_list{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
 }

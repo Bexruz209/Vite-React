@@ -7,10 +7,16 @@
     margin: auto;
     width: 600px;
     height: 500px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .bmw_img{
     width: 100%;
     height: 100%;
+}
+
+.bmw_list{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
 }
